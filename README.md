@@ -8,8 +8,6 @@
 <h3> Let's connect!</h3>
 
 <br />
-<br />
-<br />
 
 ### Connect with me:
 
